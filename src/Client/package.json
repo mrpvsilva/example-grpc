@@ -1,0 +1,16 @@
+{
+  "name": "grpc-cliente",
+  "version": "0.0.0",
+  "description": "GrpcCliente",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.3",
+    "grpc": "^1.24.2"
+  }
+}
