@@ -1,2 +1,2 @@
 # example-grpc
-Exemplo de utilização entre um server grpc .net core and um client grpc nodejs
+Exemplo de utilização do Grpc entre um server .net core 3.1 and um client nodejs
